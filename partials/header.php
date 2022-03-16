@@ -54,7 +54,7 @@
 								</div>
 							</div>
 						</div>
-						<a id="main__logo"><img src="assets/img/logo.gif" class="img-responsive"></a>
+						<a href="#" id="main__logo"><img src="assets/img/logo.gif" class="img-responsive"></a>
 					</div>
 					<div class="col-md-8 hidden-sm hidden-xs">
 						<nav id="top__nav">

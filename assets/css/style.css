@@ -161,6 +161,7 @@ p {
     padding-top: 23px;
     padding-left: 15px;
     padding-right: 15px;
+    color: #475569;
 }
 
 #main__nav {
@@ -325,6 +326,7 @@ p {
     top: 0;
     left: 0;
     bottom: 0;
+    width: 100%;
 }
 #main__banner .banner__content {
     font-family: lob-font;
@@ -509,7 +511,6 @@ p {
 
 #foot__note {
     background-color: #0271b0;
-    color: #fff;
     padding: 15px 0;
     color: rgba(255, 255, 255, 0.7);
 }
